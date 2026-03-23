@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": hariyalismp1.aternos.me,
+    "ip": "hariyalismp1.aternos.me",
     "port": 28122,
     "version": "1.21.1"
   },
